@@ -7,7 +7,7 @@
 
 The uplad of the demo for [FLAMINGO STUDIO] Studio Exclusivly, 
 This is a client demo projet of the ball maze environment for hyper casual games and see my design and coding games environments and interactions (please do not share) 
-This project repertory is for view only and review by the [CORE ATTACKS] Studio andd will be deleted after 1 month.
+This project repertory is for view only and review by the [FLAMINGO STUDIO] Studio andd will be back private after 1 month.
  -This demo includes a working level with double control Mode(Virtual Joystick,Accelerometer) 
  -All asked in a full example leve
 	-Entities
